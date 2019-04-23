@@ -5,7 +5,7 @@ import pt from "date-fns/locale/pt";
 import Dropzone from "react-dropzone";
 import socket from "socket.io-client";
 import api from "../../services/api";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/logo.png";
 import "./styles.css";
 
 export default class Box extends Component {
